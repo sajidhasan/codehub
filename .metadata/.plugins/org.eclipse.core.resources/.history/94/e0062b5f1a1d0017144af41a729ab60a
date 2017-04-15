@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+class Solution{
+    public static void main(String []argh)
+    {   
+    	Scanner sc = new Scanner(System.in);
+        int t=sc.nextInt();
+        sc.close();
+        String s = Integer.toString(t);
+        System.out.println(s);
+    }
+}

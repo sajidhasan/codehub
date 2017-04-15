@@ -1,0 +1,10 @@
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		int num = 1;
+		String s = String.format("%03d", num);
+		System.out.printf("Hello World");
+
+	}
+
+}

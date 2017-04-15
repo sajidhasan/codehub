@@ -1,0 +1,10 @@
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		int num = 1;
+		String name = "Sajid";
+		System.out.printf("%-15s %03d", name, num);
+
+	}
+
+}
